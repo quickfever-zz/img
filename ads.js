@@ -11,7 +11,10 @@
 </div>
 
 
+
 <div id='post-body-inner'><div class='post-body-inner'><data:post.body/></div></div>
+
+
 
 <script type='text/javascript'>
 function insertAfter(addition,target) {
